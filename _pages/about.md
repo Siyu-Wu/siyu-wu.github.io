@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+![FSEC](/images/fsec.jpg){: .align-right width="300px"}
 📖 I'm a master's student at USC, with a background in vehicle engineering, and I anticipate graduating in May 2024.
 
 🧑‍💻 I'm learning about data analysis, with a specific emphasis on data engineering.
